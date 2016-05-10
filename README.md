@@ -1,4 +1,9 @@
+#詳細はQiitaで
+http://qiita.com/rorensu2236/items/135f67f9f08df08658fb
+
+
 # LineLogAnalyzer
+
 LINEの会話ログを解析するためのプログラムです．
 
 スマートフォンのLINEの設定から会話ログを送信し，PCに移動します．
